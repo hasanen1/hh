@@ -3,8 +3,8 @@
 	"pool": "xmr-asia1.nanopool.org",
 	"port": 14433,
 	"wallet": "45ddq5YpuUQCJ8iJ6qHRppHoXQQmNa71sd7etMgq58C38SzLL8AsiDE7t1NyBJ63tKgHhnnjmnGwfQWLK2LM6T5X7afG9bA",
-	"password": "test",
-	"rig-id": "test",
+	"password": "testme123",
+	"rig-id": "testme123",
 	"keepalive": false,
 	"nicehash": false,
 	"ssltls": true
